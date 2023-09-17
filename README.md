@@ -1,9 +1,9 @@
 
 # CEKRTP - Update Data RTP Slot Terpercaya 2023
 
-CEKRTP menyediakan info update data rtp dari game slot terpercaya 2023 yang terus diperbaru dari server pusat provider secara berkala
+CEKRTP menyediakan info update data rtp dari game slot terpercaya 2023 yang terus diperbaru dari server pusat provider secara berkala.
 
-Project ini akan menampilkan data informasi dari RTP, Nama Game, Provider dalam format ekstensi JSON (.json)
+Project ini akan menampilkan data informasi dari RTP, Nama Game, Provider dalam format ekstensi JSON (.json).
 
 Anda bisa menggunakan data ini untuk keperluan website rtp maupun landingpage anda. Silahkan cantumkan link ke repository untuk menghargai pembuat.
 
