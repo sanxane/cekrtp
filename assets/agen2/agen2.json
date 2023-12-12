@@ -1,1 +1,1543 @@
-//New
+
+  "data": [
+    {
+      "Agen": "AGEN777",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/agen777.gif",
+      "Link": "https://agen777.com/",
+      "Referral": "https://agen777.com/",
+      "Deposit": "10000",
+      "Vote": 4697998,
+      "Status": "1"
+    },
+    {
+      "Agen": "SKL77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/skl77.gif",
+      "Link": "https://skl77.com/",
+      "Referral": "https://skl77.com/",
+      "Deposit": "10000",
+      "Vote": 2311373,
+      "Status": "1"
+    },
+    {
+      "Agen": "ASLI188",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/asli188.gif",
+      "Link": "https://asli188.com/",
+      "Referral": "https://asli188.com/",
+      "Deposit": "10000",
+      "Vote": 3586919,
+      "Status": "1"
+    },
+    {
+      "Agen": "YUKI138",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/yuki138.gif",
+      "Link": "https://yuki138.com/",
+      "Referral": "https://yuki138.com/",
+      "Deposit": "10000",
+      "Vote": 7534352,
+      "Status": "1"
+    },
+    {
+      "Agen": "GACORBOS88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/gacorbos88.gif",
+      "Link": "https://gacorbos88.com/",
+      "Referral": "https://gacorbos88.com/",
+      "Deposit": "10000",
+      "Vote": 8282485,
+      "Status": "1"
+    },
+    {
+      "Agen": "LEOSLOT88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/leoslot88.gif",
+      "Link": "https://leoslot88.com/",
+      "Referral": "https://leoslot88.com/",
+      "Deposit": "10000",
+      "Vote": 1447385,
+      "Status": "1"
+    },
+    {
+      "Agen": "BOSGACOR",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bosgacor.gif",
+      "Link": "https://bosgacor.com/",
+      "Referral": "https://bosgacor.com/",
+      "Deposit": "10000",
+      "Vote": 7222564,
+      "Status": "1"
+    },
+    {
+      "Agen": "API5000",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/api5000.gif",
+      "Link": "https://api5000.com/",
+      "Referral": "https://api5000.com/",
+      "Deposit": "10000",
+      "Vote": 4159412,
+      "Status": "1"
+    },
+    {
+      "Agen": "DELTA288",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/delta288.svg",
+      "Link": "https://delta288.com/",
+      "Referral": "https://delta288.com/",
+      "Deposit": "10000",
+      "Vote": 3050393,
+      "Status": "1"
+    },
+    {
+      "Agen": "PISANGBET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pisangbet.svg",
+      "Link": "https://pisangbet.com/",
+      "Referral": "https://pisangbet.com/",
+      "Deposit": "10000",
+      "Vote": 1254541,
+      "Status": "1"
+    },
+    {
+      "Agen": "GLORYSLOT777",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/gloryslot777.svg",
+      "Link": "https://gloryslot777.com/",
+      "Referral": "https://gloryslot777.com/",
+      "Deposit": "10000",
+      "Vote": 1596846,
+      "Status": "1"
+    },
+    {
+      "Agen": "AQUASLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/aquaslot.svg",
+      "Link": "https://aquaslot.com/",
+      "Referral": "https://aquaslot.com/",
+      "Deposit": "10000",
+      "Vote": 6088502,
+      "Status": "1"
+    },
+    {
+      "Agen": "LIGAGG88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/ligagg88.svg",
+      "Link": "https://ligagg88.com/",
+      "Referral": "https://ligagg88.com/",
+      "Deposit": "10000",
+      "Vote": 8271678,
+      "Status": "1"
+    },
+    {
+      "Agen": "KUNCI777",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/kunci777.svg",
+      "Link": "https://kunci777.com/",
+      "Referral": "https://kunci777.com/",
+      "Deposit": "10000",
+      "Vote": 3474179,
+      "Status": "1"
+    },
+    {
+      "Agen": "1001MACAU",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/1001macau.svg",
+      "Link": "https://1001macau.com/",
+      "Referral": "https://1001macau.com/",
+      "Deposit": "10000",
+      "Vote": 1077272,
+      "Status": "1"
+    },
+    {
+      "Agen": "POKERONLINE77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pokeronline77.svg",
+      "Link": "https://pokeronline77.com/",
+      "Referral": "https://pokeronline77.com/",
+      "Deposit": "10000",
+      "Vote": 3106796,
+      "Status": "1"
+    },
+    {
+      "Agen": "BROBET77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/brobet77.svg",
+      "Link": "https://brobet77.com/",
+      "Referral": "https://brobet77.com/",
+      "Deposit": "10000",
+      "Vote": 7160612,
+      "Status": "1"
+    },
+    {
+      "Agen": "AREA188",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/area188.svg",
+      "Link": "https://area188.com/",
+      "Referral": "https://area188.com/",
+      "Deposit": "10000",
+      "Vote": 1560846,
+      "Status": "1"
+    },
+    {
+      "Agen": "CUANWIN77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/cuanwin77.webp",
+      "Link": "https://cuanwin77.com/",
+      "Referral": "https://cuanwin77.com/",
+      "Deposit": "10000",
+      "Vote": 8214446,
+      "Status": "1"
+    },
+    {
+      "Agen": "IDEBET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/idebet.webp",
+      "Link": "https://idebet.com/",
+      "Referral": "https://idebet.com/",
+      "Deposit": "10000",
+      "Vote": 4589270,
+      "Status": "1"
+    },
+    {
+      "Agen": "DEWASLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/dewaslot.webp",
+      "Link": "https://dewaslot.com/",
+      "Referral": "https://dewaslot.com/",
+      "Deposit": "10000",
+      "Vote": 8681131,
+      "Status": "1"
+    },
+    {
+      "Agen": "MW68",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/mw68.webp",
+      "Link": "https://mw68.com/",
+      "Referral": "https://mw68.com/",
+      "Deposit": "10000",
+      "Vote": 6636082,
+      "Status": "1"
+    },
+    {
+      "Agen": "TRISULA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/trisula88.webp",
+      "Link": "https://trisula88.com/",
+      "Referral": "https://trisula88.com/",
+      "Deposit": "10000",
+      "Vote": 2313837,
+      "Status": "1"
+    },
+    {
+      "Agen": "RAJAWIN303",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/rajawin303.webp",
+      "Link": "https://rajawin303.com/",
+      "Referral": "https://rajawin303.com/",
+      "Deposit": "10000",
+      "Vote": 5578217,
+      "Status": "1"
+    },
+    {
+      "Agen": "ARENAMEGA",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/arenamega.webp",
+      "Link": "https://arenamega.com/",
+      "Referral": "https://arenamega.com/",
+      "Deposit": "10000",
+      "Vote": 9486007,
+      "Status": "1"
+    },
+    {
+      "Agen": "BEMO88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bemo88.webp",
+      "Link": "https://bemo88.com/",
+      "Referral": "https://bemo88.com/",
+      "Deposit": "10000",
+      "Vote": 9632085,
+      "Status": "1"
+    },
+    {
+      "Agen": "ARESGACOR",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/aresgacor.webp",
+      "Link": "https://aresgacor.com/",
+      "Referral": "https://aresgacor.com/",
+      "Deposit": "10000",
+      "Vote": 9766704,
+      "Status": "1"
+    },
+    {
+      "Agen": "OBORSLOT88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/oborslot88.webp",
+      "Link": "https://oborslot88.com/",
+      "Referral": "https://oborslot88.com/",
+      "Deposit": "10000",
+      "Vote": 8343577,
+      "Status": "1"
+    },
+    {
+      "Agen": "MEGAFORWIN",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/megaforwin.webp",
+      "Link": "https://megaforwin.com/",
+      "Referral": "https://megaforwin.com/",
+      "Deposit": "10000",
+      "Vote": 3234323,
+      "Status": "1"
+    },
+    {
+      "Agen": "JAVA303",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/java303.webp",
+      "Link": "https://java303.com/",
+      "Referral": "https://java303.com/",
+      "Deposit": "10000",
+      "Vote": 7186484,
+      "Status": "1"
+    },
+    {
+      "Agen": "BONUS138",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bonus138.webp",
+      "Link": "https://bonus138.com/",
+      "Referral": "https://bonus138.com/",
+      "Deposit": "10000",
+      "Vote": 1351587,
+      "Status": "1"
+    },
+    {
+      "Agen": "JACKPOT128",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/jackpot128.webp",
+      "Link": "https://jackpot128.com/",
+      "Referral": "https://jackpot128.com/",
+      "Deposit": "10000",
+      "Vote": 9228214,
+      "Status": "1"
+    },
+    {
+      "Agen": "THOR138",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/thor138.webp",
+      "Link": "https://thor138.com/",
+      "Referral": "https://thor138.com/",
+      "Deposit": "10000",
+      "Vote": 7594839,
+      "Status": "1"
+    },
+    {
+      "Agen": "ALEXABET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/alexabet88.webp",
+      "Link": "https://alexabet88.com/",
+      "Referral": "https://alexabet88.com/",
+      "Deposit": "10000",
+      "Vote": 1879389,
+      "Status": "1"
+    },
+    {
+      "Agen": "IDNGG",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/idngg.webp",
+      "Link": "https://idngg.com/",
+      "Referral": "https://idngg.com/",
+      "Deposit": "10000",
+      "Vote": 9690466,
+      "Status": "1"
+    },
+    {
+      "Agen": "KLIKSLOTS",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/klikslots.webp",
+      "Link": "https://klikslots.com/",
+      "Referral": "https://klikslots.com/",
+      "Deposit": "10000",
+      "Vote": 1571964,
+      "Status": "1"
+    },
+    {
+      "Agen": "BOLAVITASLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bolavitaslot.webp",
+      "Link": "https://bolavitaslot.com/",
+      "Referral": "https://bolavitaslot.com/",
+      "Deposit": "10000",
+      "Vote": 3440540,
+      "Status": "1"
+    },
+    {
+      "Agen": "NIAGABET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/niagabet.webp",
+      "Link": "https://niagabet.com/",
+      "Referral": "https://niagabet.com/",
+      "Deposit": "10000",
+      "Vote": 4250371,
+      "Status": "1"
+    },
+    {
+      "Agen": "ADAGAMING168",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/adagaming168.webp",
+      "Link": "https://adagaming168.com/",
+      "Referral": "https://adagaming168.com/",
+      "Deposit": "10000",
+      "Vote": 8911848,
+      "Status": "1"
+    },
+    {
+      "Agen": "GOBETASIA",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/gobetasia.webp",
+      "Link": "https://gobetasia.com/",
+      "Referral": "https://gobetasia.com/",
+      "Deposit": "10000",
+      "Vote": 4680002,
+      "Status": "1"
+    },
+    {
+      "Agen": "LATOBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/latobet88.webp",
+      "Link": "https://latobet88.com/",
+      "Referral": "https://latobet88.com/",
+      "Deposit": "10000",
+      "Vote": 3736121,
+      "Status": "1"
+    },
+    {
+      "Agen": "ARENADEWA",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/arenadewa.webp",
+      "Link": "https://arenadewa.com/",
+      "Referral": "https://arenadewa.com/",
+      "Deposit": "10000",
+      "Vote": 5248481,
+      "Status": "1"
+    },
+    {
+      "Agen": "MAMEN123",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/mamen123.webp",
+      "Link": "https://mamen123.com/",
+      "Referral": "https://mamen123.com/",
+      "Deposit": "10000",
+      "Vote": 4778936,
+      "Status": "1"
+    },
+    {
+      "Agen": "MANTRA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/mantra88.webp",
+      "Link": "https://mantra88.com/",
+      "Referral": "https://mantra88.com/",
+      "Deposit": "10000",
+      "Vote": 1701873,
+      "Status": "1"
+    },
+    {
+      "Agen": "SLOT1131",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/slot1131.webp",
+      "Link": "https://slot1131.com/",
+      "Referral": "https://slot1131.com/",
+      "Deposit": "10000",
+      "Vote": 6892039,
+      "Status": "1"
+    },
+    {
+      "Agen": "JP1131",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/jp1131.webp",
+      "Link": "https://jp1131.com/",
+      "Referral": "https://jp1131.com/",
+      "Deposit": "10000",
+      "Vote": 6600947,
+      "Status": "1"
+    },
+    {
+      "Agen": "SUGOI168",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sugoi168.webp",
+      "Link": "https://sugoi168.com/",
+      "Referral": "https://sugoi168.com/",
+      "Deposit": "10000",
+      "Vote": 8180774,
+      "Status": "1"
+    },
+    {
+      "Agen": "HALOBET78",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/halobet78.webp",
+      "Link": "https://halobet78.com/",
+      "Referral": "https://halobet78.com/",
+      "Deposit": "10000",
+      "Vote": 5674135,
+      "Status": "1"
+    },
+    {
+      "Agen": "BROKU777",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/broku777.webp",
+      "Link": "https://broku777.com/",
+      "Referral": "https://broku777.com/",
+      "Deposit": "10000",
+      "Vote": 4589630,
+      "Status": "1"
+    },
+    {
+      "Agen": "MIYA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/miya88.webp",
+      "Link": "https://miya88.com/",
+      "Referral": "https://miya88.com/",
+      "Deposit": "10000",
+      "Vote": 5265494,
+      "Status": "1"
+    },
+    {
+      "Agen": "SABASLOTS",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sabaslots.webp",
+      "Link": "https://sabaslots.com/",
+      "Referral": "https://sabaslots.com/",
+      "Deposit": "10000",
+      "Vote": 5739559,
+      "Status": "1"
+    },
+    {
+      "Agen": "KENDIBET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/kendibet.webp",
+      "Link": "https://kendibet.com/",
+      "Referral": "https://kendibet.com/",
+      "Deposit": "10000",
+      "Vote": 9299070,
+      "Status": "1"
+    },
+    {
+      "Agen": "SGPSLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sgpslot.webp",
+      "Link": "https://sgpslot.com/",
+      "Referral": "https://sgpslot.com/",
+      "Deposit": "10000",
+      "Vote": 6670204,
+      "Status": "1"
+    },
+    {
+      "Agen": "TANGANDEWA",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/tangandewa.webp",
+      "Link": "https://tangandewa.com/",
+      "Referral": "https://tangandewa.com/",
+      "Deposit": "10000",
+      "Vote": 5285504,
+      "Status": "1"
+    },
+    {
+      "Agen": "ABONGSLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/abongslot.webp",
+      "Link": "https://abongslot.com/",
+      "Referral": "https://abongslot.com/",
+      "Deposit": "10000",
+      "Vote": 1311441,
+      "Status": "1"
+    },
+    {
+      "Agen": "MACANASIA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/macanasia88.webp",
+      "Link": "https://macanasia88.com/",
+      "Referral": "https://macanasia88.com/",
+      "Deposit": "10000",
+      "Vote": 6890083,
+      "Status": "1"
+    },
+{
+      "Agen": "GB777",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/gb777.png",
+      "Link": "https://gb777.com/",
+      "Referral": "https://gb777.com/",
+      "Deposit": "10000",
+      "Vote": 4532738,
+      "Status": "1"
+    },
+    {
+      "Agen": "MAXWIN77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/maxwin77.png",
+      "Link": "https://maxwin77.com/",
+      "Referral": "https://maxwin77.com/",
+      "Deposit": "10000",
+      "Vote": 2837687,
+      "Status": "1"
+    },
+    {
+      "Agen": "SLOT99BET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/slot99bet.png",
+      "Link": "https://slot99bet.com/",
+      "Referral": "https://slot99bet.com/",
+      "Deposit": "10000",
+      "Vote": 3342763,
+      "Status": "1"
+    },
+    {
+      "Agen": "HOKIGACOR77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/hokigacor77.png",
+      "Link": "https://hokigacor77.com/",
+      "Referral": "https://hokigacor77.com/",
+      "Deposit": "10000",
+      "Vote": 7308230,
+      "Status": "1"
+    },
+    {
+      "Agen": "MAHA303",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/maha303.png",
+      "Link": "https://maha303.com/",
+      "Referral": "https://maha303.com/",
+      "Deposit": "10000",
+      "Vote": 3909751,
+      "Status": "1"
+    },
+    {
+      "Agen": "BOM29TOTO",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bom29toto.png",
+      "Link": "https://bom29toto.com/",
+      "Referral": "https://bom29toto.com/",
+      "Deposit": "10000",
+      "Vote": 1098247,
+      "Status": "1"
+    },
+    {
+      "Agen": "JOIN88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/join88.png",
+      "Link": "https://join88.com/",
+      "Referral": "https://join88.com/",
+      "Deposit": "10000",
+      "Vote": 6626891,
+      "Status": "1"
+    },
+    {
+      "Agen": "SENSASIONAL77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sensasional77.png",
+      "Link": "https://sensasional77.com/",
+      "Referral": "https://sensasional77.com/",
+      "Deposit": "10000",
+      "Vote": 9120392,
+      "Status": "1"
+    },
+    {
+      "Agen": "MANSION77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/mansion77.png",
+      "Link": "https://mansion77.com/",
+      "Referral": "https://mansion77.com/",
+      "Deposit": "10000",
+      "Vote": 7206366,
+      "Status": "1"
+    },
+    {
+      "Agen": "DEWARAJA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/dewaraja88.png",
+      "Link": "https://dewaraja88.com/",
+      "Referral": "https://dewaraja88.com/",
+      "Deposit": "10000",
+      "Vote": 2785893,
+      "Status": "1"
+    },
+    {
+      "Agen": "RAJAZEUS",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/rajazeus.png",
+      "Link": "https://rajazeus.com/",
+      "Referral": "https://rajazeus.com/",
+      "Deposit": "10000",
+      "Vote": 4418200,
+      "Status": "1"
+    },
+    {
+      "Agen": "SHIO168",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/shio168.png",
+      "Link": "https://shio168.com/",
+      "Referral": "https://shio168.com/",
+      "Deposit": "10000",
+      "Vote": 7620492,
+      "Status": "1"
+    },
+    {
+      "Agen": "AIRBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/airbet88.png",
+      "Link": "https://airbet88.com/",
+      "Referral": "https://airbet88.com/",
+      "Deposit": "10000",
+      "Vote": 7251239,
+      "Status": "1"
+    },
+    {
+      "Agen": "BET138",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bet138.png",
+      "Link": "https://bet138.com/",
+      "Referral": "https://bet138.com/",
+      "Deposit": "10000",
+      "Vote": 1379532,
+      "Status": "1"
+    },
+    {
+      "Agen": "ASTROSLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/astroslot.png",
+      "Link": "https://astroslot.com/",
+      "Referral": "https://astroslot.com/",
+      "Deposit": "10000",
+      "Vote": 1659434,
+      "Status": "1"
+    },
+    {
+      "Agen": "GACHA99",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/gacha99.png",
+      "Link": "https://gacha99.com/",
+      "Referral": "https://gacha99.com/",
+      "Deposit": "10000",
+      "Vote": 3380541,
+      "Status": "1"
+    },
+    {
+      "Agen": "GACOR66",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/gacor66.png",
+      "Link": "https://gacor66.com/",
+      "Referral": "https://gacor66.com/",
+      "Deposit": "10000",
+      "Vote": 1612420,
+      "Status": "1"
+    },
+    {
+      "Agen": "AHTOTO",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/ahtoto.png",
+      "Link": "https://ahtoto.com/",
+      "Referral": "https://ahtoto.com/",
+      "Deposit": "10000",
+      "Vote": 3953236,
+      "Status": "1"
+    },
+    {
+      "Agen": "DEWADORA",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/dewadora.png",
+      "Link": "https://dewadora.com/",
+      "Referral": "https://dewadora.com/",
+      "Deposit": "10000",
+      "Vote": 9330862,
+      "Status": "1"
+    },
+    {
+      "Agen": "SUNDAEMPIRE787",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sundaempire787.png",
+      "Link": "https://sundaempire787.com/",
+      "Referral": "https://sundaempire787.com/",
+      "Deposit": "10000",
+      "Vote": 8393465,
+      "Status": "1"
+    },
+    {
+      "Agen": "GALAXY898",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/galaxy898.png",
+      "Link": "https://galaxy898.com/",
+      "Referral": "https://galaxy898.com/",
+      "Deposit": "10000",
+      "Vote": 2118200,
+      "Status": "1"
+    },
+    {
+      "Agen": "RAJINTOTO",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/rajintoto.png",
+      "Link": "https://rajintoto.com/",
+      "Referral": "https://rajintoto.com/",
+      "Deposit": "10000",
+      "Vote": 2040428,
+      "Status": "1"
+    },
+    {
+      "Agen": "RACIKANTOTO 4D",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/racikantoto 4d.png",
+      "Link": "https://racikantoto 4d.com/",
+      "Referral": "https://racikantoto 4d.com/",
+      "Deposit": "10000",
+      "Vote": 7417668,
+      "Status": "1"
+    },
+    {
+      "Agen": "KONCO88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/konco88.png",
+      "Link": "https://konco88.com/",
+      "Referral": "https://konco88.com/",
+      "Deposit": "10000",
+      "Vote": 4110557,
+      "Status": "1"
+    },
+    {
+      "Agen": "SLOTCC",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/slotcc.png",
+      "Link": "https://slotcc.com/",
+      "Referral": "https://slotcc.com/",
+      "Deposit": "10000",
+      "Vote": 6407934,
+      "Status": "1"
+    },
+    {
+      "Agen": "NAFASTOGEL",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/nafastogel.png",
+      "Link": "https://nafastogel.com/",
+      "Referral": "https://nafastogel.com/",
+      "Deposit": "10000",
+      "Vote": 3485548,
+      "Status": "1"
+    },
+    {
+      "Agen": "TERMINAL303",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/terminal303.png",
+      "Link": "https://terminal303.com/",
+      "Referral": "https://terminal303.com/",
+      "Deposit": "10000",
+      "Vote": 5721123,
+      "Status": "1"
+    },
+    {
+      "Agen": "GRANDBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/grandbet88.png",
+      "Link": "https://grandbet88.com/",
+      "Referral": "https://grandbet88.com/",
+      "Deposit": "10000",
+      "Vote": 5934273,
+      "Status": "1"
+    },
+    {
+      "Agen": "NAGA365",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/naga365.png",
+      "Link": "https://naga365.com/",
+      "Referral": "https://naga365.com/",
+      "Deposit": "10000",
+      "Vote": 5156779,
+      "Status": "1"
+    },
+    {
+      "Agen": "JOKER768",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/joker768.png",
+      "Link": "https://joker768.com/",
+      "Referral": "https://joker768.com/",
+      "Deposit": "10000",
+      "Vote": 7406192,
+      "Status": "1"
+    },
+    {
+      "Agen": "KAKI777",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/kaki777.png",
+      "Link": "https://kaki777.com/",
+      "Referral": "https://kaki777.com/",
+      "Deposit": "10000",
+      "Vote": 7444048,
+      "Status": "1"
+    },
+    {
+      "Agen": "VIOS168",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/vios168.png",
+      "Link": "https://vios168.com/",
+      "Referral": "https://vios168.com/",
+      "Deposit": "10000",
+      "Vote": 1616996,
+      "Status": "1"
+    },
+    {
+      "Agen": "V77SLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/v77slot.png",
+      "Link": "https://v77slot.com/",
+      "Referral": "https://v77slot.com/",
+      "Deposit": "10000",
+      "Vote": 2037735,
+      "Status": "1"
+    },
+    {
+      "Agen": "LARISBET303",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/larisbet303.png",
+      "Link": "https://larisbet303.com/",
+      "Referral": "https://larisbet303.com/",
+      "Deposit": "10000",
+      "Vote": 6972866,
+      "Status": "1"
+    },
+    {
+      "Agen": "BIG777",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/big777.png",
+      "Link": "https://big777.com/",
+      "Referral": "https://big777.com/",
+      "Deposit": "10000",
+      "Vote": 9948929,
+      "Status": "1"
+    },
+    {
+      "Agen": "HOKI178",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/hoki178.png",
+      "Link": "https://hoki178.com/",
+      "Referral": "https://hoki178.com/",
+      "Deposit": "10000",
+      "Vote": 8254198,
+      "Status": "1"
+    },
+    {
+      "Agen": "JTASLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/jtaslot.png",
+      "Link": "https://jtaslot.com/",
+      "Referral": "https://jtaslot.com/",
+      "Deposit": "10000",
+      "Vote": 8614197,
+      "Status": "1"
+    },
+    {
+      "Agen": "CUANWIN138",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/cuanwin138.png",
+      "Link": "https://cuanwin138.com/",
+      "Referral": "https://cuanwin138.com/",
+      "Deposit": "10000",
+      "Vote": 1723164,
+      "Status": "1"
+    },
+    {
+      "Agen": "ATLASBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/atlasbet88.png",
+      "Link": "https://atlasbet88.com/",
+      "Referral": "https://atlasbet88.com/",
+      "Deposit": "10000",
+      "Vote": 8061733,
+      "Status": "1"
+    },
+    {
+      "Agen": "PROTOGEL",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/protogel.png",
+      "Link": "https://protogel.com/",
+      "Referral": "https://protogel.com/",
+      "Deposit": "10000",
+      "Vote": 6873343,
+      "Status": "1"
+    },
+    {
+      "Agen": "OSG888",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/osg888.png",
+      "Link": "https://osg888.com/",
+      "Referral": "https://osg888.com/",
+      "Deposit": "10000",
+      "Vote": 8373628,
+      "Status": "1"
+    },
+    {
+      "Agen": "QDAL88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/qdal88.png",
+      "Link": "https://qdal88.com/",
+      "Referral": "https://qdal88.com/",
+      "Deposit": "10000",
+      "Vote": 8789538,
+      "Status": "1"
+    },
+    {
+      "Agen": "TOTOSLOTO",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/totosloto.png",
+      "Link": "https://totosloto.com/",
+      "Referral": "https://totosloto.com/",
+      "Deposit": "10000",
+      "Vote": 1931920,
+      "Status": "1"
+    },
+    {
+      "Agen": "JANJISLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/janjislot.png",
+      "Link": "https://janjislot.com/",
+      "Referral": "https://janjislot.com/",
+      "Deposit": "10000",
+      "Vote": 1110206,
+      "Status": "1"
+    },
+    {
+      "Agen": "SUHUSLOT88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/suhuslot88.png",
+      "Link": "https://suhuslot88.com/",
+      "Referral": "https://suhuslot88.com/",
+      "Deposit": "10000",
+      "Vote": 7544154,
+      "Status": "1"
+    },
+    {
+      "Agen": "TANGANJUDI",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/tanganjudi.png",
+      "Link": "https://tanganjudi.com/",
+      "Referral": "https://tanganjudi.com/",
+      "Deposit": "10000",
+      "Vote": 4216731,
+      "Status": "1"
+    },
+    {
+      "Agen": "SETIA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/setia88.png",
+      "Link": "https://setia88.com/",
+      "Referral": "https://setia88.com/",
+      "Deposit": "10000",
+      "Vote": 8326299,
+      "Status": "1"
+    },
+    {
+      "Agen": "SULTANTOTO",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sultantoto.png",
+      "Link": "https://sultantoto.com/",
+      "Referral": "https://sultantoto.com/",
+      "Deposit": "10000",
+      "Vote": 1635697,
+      "Status": "1"
+    },
+    {
+      "Agen": "TEXAS88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/texas88.png",
+      "Link": "https://texas88.com/",
+      "Referral": "https://texas88.com/",
+      "Deposit": "10000",
+      "Vote": 8039319,
+      "Status": "1"
+    },
+    {
+      "Agen": "BETSHELTER",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/betshelter.png",
+      "Link": "https://betshelter.com/",
+      "Referral": "https://betshelter.com/",
+      "Deposit": "10000",
+      "Vote": 2832042,
+      "Status": "1"
+    },
+    {
+      "Agen": "SELOTGACORKU",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/selotgacorku.png",
+      "Link": "https://selotgacorku.com/",
+      "Referral": "https://selotgacorku.com/",
+      "Deposit": "10000",
+      "Vote": 5792176,
+      "Status": "1"
+    },
+    {
+      "Agen": "HKSBET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/hksbet.png",
+      "Link": "https://hksbet.com/",
+      "Referral": "https://hksbet.com/",
+      "Deposit": "10000",
+      "Vote": 3821803,
+      "Status": "1"
+    },
+    {
+      "Agen": "DEPOSLOT88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/deposlot88.png",
+      "Link": "https://deposlot88.com/",
+      "Referral": "https://deposlot88.com/",
+      "Deposit": "10000",
+      "Vote": 1839017,
+      "Status": "1"
+    },
+    {
+      "Agen": "DORA77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/dora77.png",
+      "Link": "https://dora77.com/",
+      "Referral": "https://dora77.com/",
+      "Deposit": "10000",
+      "Vote": 9583135,
+      "Status": "1"
+    },
+    {
+      "Agen": "WIN88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/win88.png",
+      "Link": "https://win88.com/",
+      "Referral": "https://win88.com/",
+      "Deposit": "10000",
+      "Vote": 8657152,
+      "Status": "1"
+    },
+    {
+      "Agen": "SUKABET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sukabet.png",
+      "Link": "https://sukabet.com/",
+      "Referral": "https://sukabet.com/",
+      "Deposit": "10000",
+      "Vote": 9373274,
+      "Status": "1"
+    },
+    {
+      "Agen": "DRAGON222",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/dragon222.png",
+      "Link": "https://dragon222.com/",
+      "Referral": "https://dragon222.com/",
+      "Deposit": "10000",
+      "Vote": 1798954,
+      "Status": "1"
+    },
+    {
+      "Agen": "KINGTOTO",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/kingtoto.png",
+      "Link": "https://kingtoto.com/",
+      "Referral": "https://kingtoto.com/",
+      "Deposit": "10000",
+      "Vote": 9466819,
+      "Status": "1"
+    },
+    {
+      "Agen": "SLOTO89",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sloto89.png",
+      "Link": "https://sloto89.com/",
+      "Referral": "https://sloto89.com/",
+      "Deposit": "10000",
+      "Vote": 1696986,
+      "Status": "1"
+    },
+    {
+      "Agen": "TMBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/tmbet88.png",
+      "Link": "https://tmbet88.com/",
+      "Referral": "https://tmbet88.com/",
+      "Deposit": "10000",
+      "Vote": 7200119,
+      "Status": "1"
+    },
+    {
+      "Agen": "JACKPOT108",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/jackpot108.png",
+      "Link": "https://jackpot108.com/",
+      "Referral": "https://jackpot108.com/",
+      "Deposit": "10000",
+      "Vote": 3024167,
+      "Status": "1"
+    },
+    {
+      "Agen": "WINSGOAL",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/winsgoal.png",
+      "Link": "https://winsgoal.com/",
+      "Referral": "https://winsgoal.com/",
+      "Deposit": "10000",
+      "Vote": 3734803,
+      "Status": "1"
+    },
+    {
+      "Agen": "PANEN123JP",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/panen123jp.png",
+      "Link": "https://panen123jp.com/",
+      "Referral": "https://panen123jp.com/",
+      "Deposit": "10000",
+      "Vote": 8381521,
+      "Status": "1"
+    },
+    {
+      "Agen": "JOINBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/joinbet88.png",
+      "Link": "https://joinbet88.com/",
+      "Referral": "https://joinbet88.com/",
+      "Deposit": "10000",
+      "Vote": 5483338,
+      "Status": "1"
+    },
+    {
+      "Agen": "SULTAN88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/sultan88.png",
+      "Link": "https://sultan88.com/",
+      "Referral": "https://sultan88.com/",
+      "Deposit": "10000",
+      "Vote": 6134941,
+      "Status": "1"
+    },
+    {
+      "Agen": "SSVEGAS",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/ssvegas.png",
+      "Link": "https://ssvegas.com/",
+      "Referral": "https://ssvegas.com/",
+      "Deposit": "10000",
+      "Vote": 5994044,
+      "Status": "1"
+    },
+    {
+      "Agen": "JUARASLOT88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/juaraslot88.png",
+      "Link": "https://juaraslot88.com/",
+      "Referral": "https://juaraslot88.com/",
+      "Deposit": "10000",
+      "Vote": 7899130,
+      "Status": "1"
+    },
+    {
+      "Agen": "VIVO303",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/vivo303.png",
+      "Link": "https://vivo303.com/",
+      "Referral": "https://vivo303.com/",
+      "Deposit": "10000",
+      "Vote": 5796770,
+      "Status": "1"
+    },
+    {
+      "Agen": "TOKYO77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/tokyo77.png",
+      "Link": "https://tokyo77.com/",
+      "Referral": "https://tokyo77.com/",
+      "Deposit": "10000",
+      "Vote": 7089819,
+      "Status": "1"
+    },
+    {
+      "Agen": "NUSAWIN88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/nusawin88.png",
+      "Link": "https://nusawin88.com/",
+      "Referral": "https://nusawin88.com/",
+      "Deposit": "10000",
+      "Vote": 7833471,
+      "Status": "1"
+    },
+    {
+      "Agen": "ROKET288",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/roket288.png",
+      "Link": "https://roket288.com/",
+      "Referral": "https://roket288.com/",
+      "Deposit": "10000",
+      "Vote": 4205090,
+      "Status": "1"
+    },
+    {
+      "Agen": "REALBET99",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/realbet99.png",
+      "Link": "https://realbet99.com/",
+      "Referral": "https://realbet99.com/",
+      "Deposit": "10000",
+      "Vote": 8023373,
+      "Status": "1"
+    },
+    {
+      "Agen": "WG77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/wg77.png",
+      "Link": "https://wg77.com/",
+      "Referral": "https://wg77.com/",
+      "Deposit": "10000",
+      "Vote": 4025486,
+      "Status": "1"
+    },
+    {
+      "Agen": "66KBET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/66kbet.png",
+      "Link": "https://66kbet.com/",
+      "Referral": "https://66kbet.com/",
+      "Deposit": "10000",
+      "Vote": 5191104,
+      "Status": "1"
+    },
+    {
+      "Agen": "SENIORBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/seniorbet88.png",
+      "Link": "https://seniorbet88.com/",
+      "Referral": "https://seniorbet88.com/",
+      "Deposit": "10000",
+      "Vote": 9302372,
+      "Status": "1"
+    },
+    {
+      "Agen": "LOTUS303",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/lotus303.png",
+      "Link": "https://lotus303.com/",
+      "Referral": "https://lotus303.com/",
+      "Deposit": "10000",
+      "Vote": 3714535,
+      "Status": "1"
+    },
+    {
+      "Agen": "GADUNSLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/gadunslot.png",
+      "Link": "https://gadunslot.com/",
+      "Referral": "https://gadunslot.com/",
+      "Deposit": "10000",
+      "Vote": 3375086,
+      "Status": "1"
+    },
+    {
+      "Agen": "STARS77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/stars77.png",
+      "Link": "https://stars77.com/",
+      "Referral": "https://stars77.com/",
+      "Deposit": "10000",
+      "Vote": 9481031,
+      "Status": "1"
+    },
+    {
+      "Agen": "PANDA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/panda88.png",
+      "Link": "https://panda88.com/",
+      "Referral": "https://panda88.com/",
+      "Deposit": "10000",
+      "Vote": 2997311,
+      "Status": "1"
+    },
+    {
+      "Agen": "ADAM77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/adam77.png",
+      "Link": "https://adam77.com/",
+      "Referral": "https://adam77.com/",
+      "Deposit": "10000",
+      "Vote": 5806788,
+      "Status": "1"
+    },
+    {
+      "Agen": "LAVABET138",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/lavabet138.png",
+      "Link": "https://lavabet138.com/",
+      "Referral": "https://lavabet138.com/",
+      "Deposit": "10000",
+      "Vote": 2064697,
+      "Status": "1"
+    },
+    {
+      "Agen": "KIOS365",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/kios365.png",
+      "Link": "https://kios365.com/",
+      "Referral": "https://kios365.com/",
+      "Deposit": "10000",
+      "Vote": 7701535,
+      "Status": "1"
+    },
+    {
+      "Agen": "K86SPORT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/k86sport.png",
+      "Link": "https://k86sport.com/",
+      "Referral": "https://k86sport.com/",
+      "Deposit": "10000",
+      "Vote": 6376279,
+      "Status": "1"
+    },
+    {
+      "Agen": "YING77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/ying77.png",
+      "Link": "https://ying77.com/",
+      "Referral": "https://ying77.com/",
+      "Deposit": "10000",
+      "Vote": 7483309,
+      "Status": "1"
+    },
+    {
+      "Agen": "MANIAKSLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/maniakslot.png",
+      "Link": "https://maniakslot.com/",
+      "Referral": "https://maniakslot.com/",
+      "Deposit": "10000",
+      "Vote": 6530439,
+      "Status": "1"
+    },
+    {
+      "Agen": "ASIANBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/asianbet88.png",
+      "Link": "https://asianbet88.com/",
+      "Referral": "https://asianbet88.com/",
+      "Deposit": "10000",
+      "Vote": 2956758,
+      "Status": "1"
+    },
+    {
+      "Agen": "INDKASINO",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/indkasino.png",
+      "Link": "https://indkasino.com/",
+      "Referral": "https://indkasino.com/",
+      "Deposit": "10000",
+      "Vote": 6094526,
+      "Status": "1"
+    },
+    {
+      "Agen": "AREA178",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/area178.png",
+      "Link": "https://area178.com/",
+      "Referral": "https://area178.com/",
+      "Deposit": "10000",
+      "Vote": 7277115,
+      "Status": "1"
+    },
+    {
+      "Agen": "MAXWIN500",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/maxwin500.png",
+      "Link": "https://maxwin500.com/",
+      "Referral": "https://maxwin500.com/",
+      "Deposit": "10000",
+      "Vote": 3724645,
+      "Status": "1"
+    },
+    {
+      "Agen": "TOTO328",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/toto328.png",
+      "Link": "https://toto328.com/",
+      "Referral": "https://toto328.com/",
+      "Deposit": "10000",
+      "Vote": 3977172,
+      "Status": "1"
+    },
+    {
+      "Agen": "PANDORA188",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pandora188.png",
+      "Link": "https://pandora188.com/",
+      "Referral": "https://pandora188.com/",
+      "Deposit": "10000",
+      "Vote": 3476618,
+      "Status": "1"
+    },
+    {
+      "Agen": "CUANABIS",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/cuanabis.png",
+      "Link": "https://cuanabis.com/",
+      "Referral": "https://cuanabis.com/",
+      "Deposit": "10000",
+      "Vote": 1367342,
+      "Status": "1"
+    },
+    {
+      "Agen": "TIKTOK88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/tiktok88.png",
+      "Link": "https://tiktok88.com/",
+      "Referral": "https://tiktok88.com/",
+      "Deposit": "10000",
+      "Vote": 6008788,
+      "Status": "1"
+    },
+    {
+      "Agen": "SLOT188",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/slot188.png",
+      "Link": "https://slot188.com/",
+      "Referral": "https://slot188.com/",
+      "Deposit": "10000",
+      "Vote": 3790011,
+      "Status": "1"
+    },
+    {
+      "Agen": "POA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/poa88.png",
+      "Link": "https://poa88.com/",
+      "Referral": "https://poa88.com/",
+      "Deposit": "10000",
+      "Vote": 5696138,
+      "Status": "1"
+    },
+    {
+      "Agen": "BALAKSIX",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/balaksix.png",
+      "Link": "https://balaksix.com/",
+      "Referral": "https://balaksix.com/",
+      "Deposit": "10000",
+      "Vote": 6622905,
+      "Status": "1"
+    },
+    {
+      "Agen": "POKERHEBAT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pokerhebat.png",
+      "Link": "https://pokerhebat.com/",
+      "Referral": "https://pokerhebat.com/",
+      "Deposit": "10000",
+      "Vote": 9568383,
+      "Status": "1"
+    },
+    {
+      "Agen": "POKERMANIA88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pokermania88.png",
+      "Link": "https://pokermania88.com/",
+      "Referral": "https://pokermania88.com/",
+      "Deposit": "10000",
+      "Vote": 6111947,
+      "Status": "1"
+    },
+    {
+      "Agen": "MAXPOKER88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/maxpoker88.png",
+      "Link": "https://maxpoker88.com/",
+      "Referral": "https://maxpoker88.com/",
+      "Deposit": "10000",
+      "Vote": 9351498,
+      "Status": "1"
+    },
+    {
+      "Agen": "GALAXY138",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/galaxy138.png",
+      "Link": "https://galaxy138.com/",
+      "Referral": "https://galaxy138.com/",
+      "Deposit": "10000",
+      "Vote": 8595265,
+      "Status": "1"
+    },
+    {
+      "Agen": "S68BET",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/s68bet.png",
+      "Link": "https://s68bet.com/",
+      "Referral": "https://s68bet.com/",
+      "Deposit": "10000",
+      "Vote": 9770792,
+      "Status": "1"
+    },
+    {
+      "Agen": "MITOSPLAY",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/mitosplay.png",
+      "Link": "https://mitosplay.com/",
+      "Referral": "https://mitosplay.com/",
+      "Deposit": "10000",
+      "Vote": 2468628,
+      "Status": "1"
+    },
+    {
+      "Agen": "KAMIPOKER",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/kamipoker.png",
+      "Link": "https://kamipoker.com/",
+      "Referral": "https://kamipoker.com/",
+      "Deposit": "10000",
+      "Vote": 6059644,
+      "Status": "1"
+    },
+    {
+      "Agen": "OKE168",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/oke168.png",
+      "Link": "https://oke168.com/",
+      "Referral": "https://oke168.com/",
+      "Deposit": "10000",
+      "Vote": 9798293,
+      "Status": "1"
+    },
+    {
+      "Agen": "OXWIN77",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/oxwin77.png",
+      "Link": "https://oxwin77.com/",
+      "Referral": "https://oxwin77.com/",
+      "Deposit": "10000",
+      "Vote": 2995496,
+      "Status": "1"
+    },
+    {
+      "Agen": "JINSLOT",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/jinslot.png",
+      "Link": "https://jinslot.com/",
+      "Referral": "https://jinslot.com/",
+      "Deposit": "10000",
+      "Vote": 1977045,
+      "Status": "1"
+    },
+    {
+      "Agen": "IDNGOAL",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/idngoal.png",
+      "Link": "https://idngoal.com/",
+      "Referral": "https://idngoal.com/",
+      "Deposit": "10000",
+      "Vote": 1908330,
+      "Status": "1"
+    },
+    {
+      "Agen": "RAJAFAFA",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/rajafafa.png",
+      "Link": "https://rajafafa.com/",
+      "Referral": "https://rajafafa.com/",
+      "Deposit": "10000",
+      "Vote": 4130265,
+      "Status": "1"
+    },
+    {
+      "Agen": "KAMPUNGBOLA99",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/kampungbola99.png",
+      "Link": "https://kampungbola99.com/",
+      "Referral": "https://kampungbola99.com/",
+      "Deposit": "10000",
+      "Vote": 1202091,
+      "Status": "1"
+    },
+    {
+      "Agen": "PAJAKBOLA",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pajakbola.png",
+      "Link": "https://pajakbola.com/",
+      "Referral": "https://pajakbola.com/",
+      "Deposit": "10000",
+      "Vote": 3240840,
+      "Status": "1"
+    },
+    {
+      "Agen": "PAMANHOKI",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pamanhoki.png",
+      "Link": "https://pamanhoki.com/",
+      "Referral": "https://pamanhoki.com/",
+      "Deposit": "10000",
+      "Vote": 9079860,
+      "Status": "1"
+    },
+    {
+      "Agen": "PASARANTOGEL2",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/pasarantogel2.png",
+      "Link": "https://pasarantogel2.com/",
+      "Referral": "https://pasarantogel2.com/",
+      "Deposit": "10000",
+      "Vote": 4230988,
+      "Status": "1"
+    },
+    {
+      "Agen": "BANDAR798",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bandar798.png",
+      "Link": "https://bandar798.com/",
+      "Referral": "https://bandar798.com/",
+      "Deposit": "10000",
+      "Vote": 2371981,
+      "Status": "1"
+    },
+    {
+      "Agen": "BANDARDEWI",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/bandardewi.png",
+      "Link": "https://bandardewi.com/",
+      "Referral": "https://bandardewi.com/",
+      "Deposit": "10000",
+      "Vote": 7351598,
+      "Status": "1"
+    },
+    {
+      "Agen": "UGBET88",
+      "Logo": "https://raw.githubusercontent.com/sanxane/cekrtp/main/assets/agen2/ugbet88.png",
+      "Link": "https://ugbet88.com/",
+      "Referral": "https://ugbet88.com/",
+      "Deposit": "10000",
+      "Vote": 1419315,
+      "Status": "1"
+    }
+  ]
+}
